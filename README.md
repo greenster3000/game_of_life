@@ -1,2 +1,2 @@
-# game_of_life
-Chris' shit game
+# etch
+etch a sketch TOP project
